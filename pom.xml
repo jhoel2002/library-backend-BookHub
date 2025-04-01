@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.library.project</groupId>
 	<artifactId>library-project-backend</artifactId>
-	<version>1.0.0 SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>library-project-backend</name>
 	<description>Library management project</description>
 	<properties>
@@ -41,13 +41,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		
-		<dependency>
-    		<groupId>org.projectlombok</groupId>
-    		<artifactId>lombok</artifactId>
-    		<version>1.18.32</version>
-    		<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -83,10 +76,6 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
