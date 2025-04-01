@@ -2,4 +2,4 @@
 
 ## Paso: 1
 
-- Clonar el repositorio con el comando: `git clone https://github.com/juanjo192021/library-project-backend.git` 
+- Clonar el repositorio con el comando: `git clone https://github.com/jhoel2002/library-backend-BookHub.git` 
